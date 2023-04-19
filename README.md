@@ -12,6 +12,8 @@ In the current design, the shaft can rotate from -85° to +85° before crashing 
 
 # Parts
 
+The CAD files were made with Fusion 360, they can be found [HERE](https://grabcad.com/library/n20-series-elastic-actuator-module-1).
+
 - Chasis
 - Front plate
 - SPS
@@ -29,7 +31,7 @@ I included a version that uses a different chasis and only one angle sensor, if 
 
 # Fabrication
 
-- The shaft adapter must be made with a 0.3 nozzle to get the right size. The motor wires must be soldered where the red circles are indicating. The pin that is in between is for the signal of the output sensor.
+- The shaft adapter must be made with a 0.3 nozzle to get the right size. The STS too, and printed with PETG to whithstand the pressure, PLA is not enough. The motor wires must be soldered where the red circles are indicating. The pin that is in between is for the signal of the output sensor.
 
 <img src="/imgs/solder.png" width="350">
 
